@@ -10,7 +10,7 @@ The original idea was picked from https://techmusician.wordpress.com/.
 - Also few programs that will keep the light glowing in a random manner.
 
 ## Watch the youtube video: <br>
-[![Youtube Video](https://img.youtube.com/vi/xb67Uv8BBug/0.jpg)](https://www.youtube.com/watch?v=xb67Uv8BBug)
+[![Youtube Video](./youtube.jpg)](https://www.youtube.com/watch?v=xb67Uv8BBug)
 
 <hr>
 
