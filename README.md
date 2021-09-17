@@ -5,4 +5,14 @@ This is small project done recently for our Society's Ganpati Festival.
 
 The original idea was picked from https://techmusician.wordpress.com/.
 
+
+- I've added few MIDI Projects that we had performed during the festival.
+- Also few programs that will keep the light glowing in a random manner.
+
+## Watch the youtube video: <br>
+[![Youtube Video](https://img.youtube.com/vi/xb67Uv8BBug/0.jpg)](https://www.youtube.com/watch?v=xb67Uv8BBug)
+
+<hr>
+
+## Circuit Diagram <br>
 ![Circuit](./CircuitDiagram.jpg)
